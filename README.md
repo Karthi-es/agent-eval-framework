@@ -10,3 +10,7 @@ To activate the environment
 
 To deactivate from venv:
 deactivate
+
+
+Git PAT for this project:
+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
